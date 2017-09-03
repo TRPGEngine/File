@@ -1,0 +1,26 @@
+{
+  "name": "trpg-file",
+  "version": "1.0.0",
+  "description": "file component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TRPGEngine/File.git"
+  },
+  "keywords": [
+    "file",
+    "trpg"
+  ],
+  "author": "moonrailgun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TRPGEngine/File/issues"
+  },
+  "homepage": "https://github.com/TRPGEngine/File#readme",
+  "dependencies": {
+    "debug": "^3.0.1"
+  }
+}
