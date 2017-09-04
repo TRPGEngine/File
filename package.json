@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/TRPGEngine/File#readme",
   "dependencies": {
-    "debug": "^3.0.1"
+    "debug": "^3.0.1",
+    "formidable": "^1.1.1",
+    "uuid": "^3.1.0"
   }
 }
