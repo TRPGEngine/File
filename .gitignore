@@ -1,5 +1,7 @@
 .vscode/
 db/
+.DS_Store
+public
 
 # Logs
 logs
